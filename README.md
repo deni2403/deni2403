@@ -1,9 +1,8 @@
-# Halo semua! 
+# Hallo everyone! 
 
-Perkenalkan nama saya **Deni**.
+Hi, my name is **Deni**.
 
-Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/deni-d-46041a213)-ku ya.
+I am a 6th-semester student majoring in Informatics Engineering with a keen interest in mobile and web application development. I am eager to learn and contribute to the programming world. Currently, I am seeking opportunities to further develop my skills and also looking forward to collaborating with others to enhance my abilities.
 
 <p align="left">
 <a href="https://github.com/deni2403">
