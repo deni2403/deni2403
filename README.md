@@ -2,7 +2,7 @@
 
 I'm currently pursuing my degree in Informatics Engineering with a keen interest in web and mobile application development. I am eager to learn and explore more about new things and technology. I am seeking opportunities to further develop my skills and am also looking forward to collaborating with others to enhance my abilities. Feel free to contact me anytime through LinkedIn.
 
-A little more about me
+A little more about me :
 ```bash
 const deni = {
   pronouns: "He" || "Him",
