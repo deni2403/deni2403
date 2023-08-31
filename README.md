@@ -1,8 +1,15 @@
-# Hallo everyone! 
+# Hi there,  I'm **Deni**
 
-Hi, my name is **Deni**.
+I'm currently pursuing my degree in Informatics Engineering with a keen interest in web and mobile application development. I am eager to learn and explore more about new things and technology. I am seeking opportunities to further develop my skills and am also looking forward to collaborating with others to enhance my abilities. Feel free to contact me anytime through LinkedIn.
 
-I am a 6th-semester student majoring in Informatics Engineering with a keen interest in mobile and web application development. I am eager to learn and contribute to the programming world. Currently, I am seeking opportunities to further develop my skills and also looking forward to collaborating with others to enhance my abilities.
+A little more about me
+```bash
+const deni = {
+  pronouns: "He" || "Him",
+  code: ["HTML", "CSS", "SCSS", "Javascript", "PHP", "Dart"],
+  tools: ["React", "Bootstrap", "Express.js", "Laravel", "Flutter"]
+};
+```
 
 <p align="left">
 <a href="https://github.com/deni2403">
